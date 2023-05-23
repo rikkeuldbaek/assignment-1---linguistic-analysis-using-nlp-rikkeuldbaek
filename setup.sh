@@ -1,8 +1,5 @@
 #!/usr/bin/env bash
 
-# Authenticate GitHub
-bash git_auth_ru.sh
-
 # install venv (in case it is not installed)
 sudo apt-get update
 sudo apt-get install python3-venv
